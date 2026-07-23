@@ -1,2 +1,2 @@
 # Electricity-Demand-Forecasting
-An ML-powered electricity demand forecasting system built with Python. It uses historical energy consumption data to generate accurate demand predictions for efficient power grid and energy management.
+Electricity Demand Forecasting This is a python-based machine learning project that is used to predict future electricity demand using the past consumption data. The project covers data cleaning and exploration, feature engineering, model training and evaluation, as well as Result visualization. Reliable forecasting can enable energy companies to plan their power generation better, save operational costs and maintain better grid stability.
